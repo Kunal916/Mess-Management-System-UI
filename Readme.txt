@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is a responsive User Interface for a Mess Management System.
 
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website Name: Mess Management System
+Author: Kunal Joshi
+Technology: HTML, CSS, Bootstap, JavaScript, PHP
